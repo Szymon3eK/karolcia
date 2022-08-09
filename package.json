@@ -1,0 +1,20 @@
+{
+  "name": "karolcia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "axios": "^0.27.2",
+    "cron": "^2.1.0",
+    "dabi-images": "^2.7.5",
+    "discord.js": "^12.5.3",
+    "ffmpeg-static": "^5.0.2",
+    "nodemon": "^2.0.19"
+  }
+}
